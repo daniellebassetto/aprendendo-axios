@@ -2,6 +2,9 @@
 
 Este projeto tem como objetivo explorar as funcionalidades do Axios, uma biblioteca popular para requisições HTTP. A aplicação demonstra o uso de requisições `GET` e `POST`, interceptores, headers globais, e a criação de uma instância personalizada.
 
+## 📃 Documentação
+Acesse a documentação oficial do axios neste link: https://axios-http.com/
+
 ## 🌟 Funcionalidades
 
 1. **Requisições GET e POST**: 
